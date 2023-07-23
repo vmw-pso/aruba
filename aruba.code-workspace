@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "resource-service"
+		},
+		{
+			"path": "proto-common"
+		}
+	]
+}
